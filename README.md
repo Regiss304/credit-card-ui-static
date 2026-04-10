@@ -52,3 +52,11 @@ The goal is to practice layout structuring and visual styling.
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/credit-card-ui-static.git
+```
+---
+
+## 🔗 Links
+
+- 🌐 Live Site: https://regiss304.github.io/credit-card-ui-static/
+- 💻 Repository: https://github.com/Regiss304/credit-card-ui-static/
+
